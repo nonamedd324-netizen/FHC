@@ -1,3 +1,5 @@
+ENG
+
 🔓 FHC (fckhappcrypt) — Happ Crypt Decryption
 
 FHC is a desktop application for decrypting Happ Crypt subscriptions and managing VLESS/VMess/Trojan configs.
@@ -29,8 +31,7 @@ Our telegram channel: @fhcproject
 
 © 2026 FHC. All rights reserved.
 
-
-
+RU
 
 🔓 FHC (fckhappcrypt) — Расшифровка Happ Crypt
 
