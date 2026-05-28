@@ -1,89 +1,98 @@
-[readme.md](https://github.com/user-attachments/files/28343355/readme.md)
-**# 🔓 FHC (fckhappcrypt) — Расшифровка Happ Crypt**
+# **🔓 FHC (fckhappcrypt) — Happ Crypt Decryption**
 
 
 
-***FHC*** *— десктопное приложение для расшифровки подписок Happ Crypt и управления конфигами VLESS/VMess/Trojan.*
+FHC is a desktop application for decrypting Happ Crypt subscriptions and managing VLESS/VMess/Trojan configs.
+The project is in the development stage (beta)
+---
 
 
 
-*Проект находится на стадии разработки (beta)*
+##### **🚀 Quick Start**
+
+Download or clone the repository
+Go to the program folder
+Run: FHC.exe
+When you first launch the dependencies will be installed automatically.
+---
 
 
 
+##### **🎮 Features**
 
-
-**## 🚀 Быстрый старт**
-
-
-
-1\. Скачайте или склонируйте репозиторий
-
-2\. Перейдите в папку с программой
-
-3\. Запустите: python fuckcrypt.py
-
-
-
-**При первом запуске автоматически установятся зависимости.**
+Decrypt happ://crypt... links
+Download regular HTTP/HTTPS subscriptions
+Extract vless://, vmess://, trojan:// configs
+View, copy, save to file
+Subscription history in subscriptions.json
+Dark theme interface
+---
 
 
 
+##### **⚠️ Warning**
 
+For educational purposes only. Use at your own risk.
+The program is 100% made in python
+**Support: telegram @fhcsupport
+Our telegram channel: @fhcproject**
+---
 
+###### 
 
-
-**## 🎮 Возможности**
-
-
-
-\- Расшифровка ссылок happ://crypt...
-
-\- Загрузка обычных подписок HTTP/HTTPS
-
-\- Извлечение конфигов vless://, vmess://, trojan://
-
-\- Просмотр, копирование, сохранение в файл
-
-\- История подписок в subscriptions.json
-
-\- Тёмная тема интерфейса
+###### **© 2026 FHC. All rights reserved.**
 
 
 
 
 
-
-
-**## 📁 Файлы**
-
-
-
-FHC/
-
-├── FHC.exe               # Главный файл
-
-├── subscriptions.json    # История (создаётся автоматически)
-
-└── README.md             # Этот файл
+# **🔓 FHC (fckhappcrypt) — Расшифровка Happ Crypt**
 
 
 
+FHC — десктопное приложение для расшифровки подписок Happ Crypt и управления конфигами VLESS/VMess/Trojan.
+Проект находится на стадии разработки (beta)
+---
 
 
 
+##### **🚀 Быстрый старт**
 
-**## ⚠️ Предупреждение**
+
+
+Скачайте или склонируйте репозиторий
+Перейдите в папку с программой
+Запустите: FHC.exe
+При первом запуске автоматически установятся зависимости.
+---
+
+
+
+##### **🎮 Возможности**
+
+
+
+Расшифровка ссылок happ://crypt...
+Загрузка обычных подписок HTTP/HTTPS
+Извлечение конфигов vless://, vmess://, trojan://
+Просмотр, копирование, сохранение в файл
+История подписок в subscriptions.json
+Тёмная тема интерфейса
+---
+
+
+
+##### **⚠️ Предупреждение**
 
 
 
 Только для образовательных целей. Используйте на свой страх и риск.
+Программа на 100% сделана на python
+Поддержка: telegram @fhcsupport
+Наш telegram канал: @fhcproject
+---
 
 
 
-**Программа на 100% сделана на python**
-
-
-
-***© 2026 FHC. Все права защищены.***
+###### **© 2026 FHC. Все права защищены.**
 
