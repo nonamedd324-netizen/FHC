@@ -4,11 +4,11 @@
 
 FHC is a desktop application for decrypting Happ Crypt subscriptions and managing VLESS/VMess/Trojan configs.
 The project is in the development stage (beta)
----
+--
 
 
 
-##### **🚀 Quick Start**
+### **🚀 Quick Start**
 
 Download or clone the repository
 Go to the program folder
@@ -18,7 +18,7 @@ When you first launch the dependencies will be installed automatically.
 
 
 
-##### **🎮 Features**
+### **🎮 Features**
 
 Decrypt happ://crypt... links
 Download regular HTTP/HTTPS subscriptions
@@ -29,8 +29,7 @@ Dark theme interface
 ---
 
 
-
-##### **⚠️ Warning**
+### **⚠️ Warning**
 
 For educational purposes only. Use at your own risk.
 The program is 100% made in python
@@ -38,9 +37,9 @@ The program is 100% made in python
 Our telegram channel: @fhcproject**
 ---
 
-###### 
+### 
 
-###### **© 2026 FHC. All rights reserved.**
+### **© 2026 FHC. All rights reserved.**
 
 
 
@@ -56,7 +55,7 @@ FHC — десктопное приложение для расшифровки 
 
 
 
-##### **🚀 Быстрый старт**
+### **🚀 Быстрый старт**
 
 
 
@@ -68,7 +67,7 @@ FHC — десктопное приложение для расшифровки 
 
 
 
-##### **🎮 Возможности**
+### **🎮 Возможности**
 
 
 
@@ -82,7 +81,7 @@ FHC — десктопное приложение для расшифровки 
 
 
 
-##### **⚠️ Предупреждение**
+### **⚠️ Предупреждение**
 
 
 
@@ -94,5 +93,5 @@ FHC — десктопное приложение для расшифровки 
 
 
 
-###### **© 2026 FHC. Все права защищены.**
+### **© 2026 FHC. Все права защищены.**
 
